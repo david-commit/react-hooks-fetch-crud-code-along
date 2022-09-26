@@ -31,10 +31,22 @@
       "isInCart": false
     },
     {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "gh-pages",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 6
+    },
+    {
+      "name": "gh-pages",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "gh-pages",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
